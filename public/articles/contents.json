@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "title": "Precision Agriculture",
+    "preview": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. ",
+    "content": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. Orci eu lacus at donec. Mi volutpat augue vivamus lorem justo scelerisque in. Malesuada.",
+    "imagePublicId": "image_4_bgtcsb.png"
+  },
+  {
+    "id": 2,
+    "title": "Organic Farming Input",
+   "preview": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. ",
+    "content": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. Orci eu lacus at donec. Mi volutpat augue vivamus lorem justo scelerisque in. Malesuada.",
+        "imagePublicId": "image_8_nlpcis.png"
+  },
+  
+  {
+    "id": 3,
+    "title": "Smart Irrigation Systems",
+    "preview": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. ",
+    "content": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. Orci eu lacus at donec. Mi volutpat augue vivamus lorem justo scelerisque in. Malesuada.",
+     "imagePublicId": "image_6_uym8d5.png"
+  },
+  {
+    "id": 4,
+    "title": "Crop Management",
+    "preview": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. ",
+    "content": "Lorem ipsum dolor sit amet consectetur. Arcu id maecenas adipiscing tempus tempor id quam venenatis. Orci eu lacus at donec. Mi volutpat augue vivamus lorem justo scelerisque in. Malesuada.",
+        "imagePublicId": "image_7_1_vdizsc.png"
+  }
+]
